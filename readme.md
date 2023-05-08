@@ -1,3 +1,8 @@
+## Contributions
+
+- `$ git clone https://github.com/Hachikoi-Marine/ts-backend.git`
+- ``
+
 ## Prisma instructions
 
 **Install stuff**
