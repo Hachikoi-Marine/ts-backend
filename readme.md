@@ -1,7 +1,9 @@
 ## Contributions
 
 - `$ git clone https://github.com/Hachikoi-Marine/ts-backend.git`
-- ``
+- Add your local Postgres connectio string `postgresql://<username>:<password>@localhost:5432/csv?schema=public` in a new .env file
+- `$ yarn prisma generate`
+- sync prisma with DB `yarn prisma migrate dev --name init`
 
 ## Prisma instructions
 
